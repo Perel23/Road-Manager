@@ -1,0 +1,7 @@
+﻿  Road.cpp
+  RoadSystem.cpp
+C:\Users\perelmaister\source\repos\roadManager1\roadManager\roadManager\RoadSystem.cpp(73,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  main.cpp
+C:\Users\perelmaister\source\repos\roadManager1\roadManager\roadManager\main.cpp(47,29): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  roadManager.vcxproj -> C:\Users\perelmaister\source\repos\roadManager1\roadManager\ARM64\Debug\roadManager.exe
